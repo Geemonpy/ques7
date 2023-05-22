@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+ background-color: red;
+}
+.webhead{
+    background-color: green;
+}
+.first{
+    height: 60px;
+}
+.menu{
+    background-color: yellow;
+    height: 60px;
+}
+.third{
+    height: 120px;
+}
+.sec1{
+    background-color: blue;
+}
+.sec2{
+    background-color: rgb(142, 120, 120);
+}
+.sec3{
+    background-color: pink;
+}
+.fourth{
+    height: 300px;
+    
+}
+.f1{
+    background-color:
+     rgb(47, 255, 99);
+}
+.f2{
+    background-color: brown;
+}
+.footer{
+    height: 50px;
+    background-color:rgb(74, 145, 222);
+}
